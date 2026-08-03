@@ -1,5 +1,8 @@
 {
-  "revoked": ["ED4E2C8D9E737B0D"],
+  "revoked": [
+    "3DB69932D10A0AFF",
+    "9FC19643651D57EE"
+  ],
   "revokedEmails": [],
-  "updatedAt": "2026-07-28T00:00:00Z"
+  "updatedAt": "2026-08-03T20:39:15.290Z"
 }
