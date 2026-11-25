@@ -1,6 +1,7 @@
 {
   "revoked": [
     "05349FA544DCCDB3",
+    "0692ACDC879404AA",
     "06D2F0B6D5A62178",
     "077404198B61C1CB",
     "0DFB8CC9F479A02D",
@@ -61,5 +62,5 @@
     "FC9B951BAB670B24"
   ],
   "revokedEmails": [],
-  "updatedAt": "2026-11-25T23:26:20.390Z"
+  "updatedAt": "2026-11-25T23:26:26.787Z"
 }
